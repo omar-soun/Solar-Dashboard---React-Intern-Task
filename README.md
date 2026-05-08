@@ -7,9 +7,11 @@ A read-only solar power monitoring dashboard built with React, Tailwind CSS v4, 
 ## Screenshots
 
 ### Light Mode
+
 ![Dashboard — Light Mode](src/assets/Screenshot_8-5-2026_155240_localhost.jpeg)
 
 ### Dark Mode
+
 ![Dashboard — Dark Mode](src/assets/Screenshot_8-5-2026_155249_localhost.jpeg)
 
 ---
@@ -30,12 +32,12 @@ A read-only solar power monitoring dashboard built with React, Tailwind CSS v4, 
 
 ## Tech Stack
 
-| Tool | Version | Purpose |
-|---|---|---|
-| React | 19 | UI framework |
-| Vite | 8 | Build tool and dev server |
-| Tailwind CSS | v4 | Utility-first styling |
-| Recharts | 3 | Chart components |
+| Tool         | Version | Purpose                   |
+| ------------ | ------- | ------------------------- |
+| React        | 19      | UI framework              |
+| Vite         | 8       | Build tool and dev server |
+| Tailwind CSS | v4      | Utility-first styling     |
+| Recharts     | 3       | Chart components          |
 
 ---
 
@@ -73,7 +75,7 @@ src/
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/omar-soun/Solar-Dashboard---React-Intern-Task.git
 cd solar-dashboard
 
 # 2. Install dependencies
@@ -106,12 +108,12 @@ npm run preview
 
 ## Available Scripts
 
-| Script | Description |
-|---|---|
-| `npm run dev` | Start the Vite dev server with HMR |
-| `npm run build` | Build optimised production bundle to `dist/` |
-| `npm run preview` | Serve the production build locally |
-| `npm run lint` | Run ESLint across the project |
+| Script            | Description                                  |
+| ----------------- | -------------------------------------------- |
+| `npm run dev`     | Start the Vite dev server with HMR           |
+| `npm run build`   | Build optimised production bundle to `dist/` |
+| `npm run preview` | Serve the production build locally           |
+| `npm run lint`    | Run ESLint across the project                |
 
 ---
 
